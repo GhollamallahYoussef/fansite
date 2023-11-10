@@ -85,7 +85,7 @@ main {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    min-height: 600px;
+    height: calc(100vh -200);
     flex-direction: column;
 }
 .first_letter {
